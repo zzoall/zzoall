@@ -2,11 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=B0E0E6&height=200&section=header&text=Nice%20to%20see%20you!&fontSize=60&animation=fadeIn)
 
-</br>
-
-### A little more about me
-Hi, I'm Hansol.<br>
-I am studying Python and I have plans to learn any Programming Languages.<br>
 
 
 <h2> My tech stack 📚 </h2>
